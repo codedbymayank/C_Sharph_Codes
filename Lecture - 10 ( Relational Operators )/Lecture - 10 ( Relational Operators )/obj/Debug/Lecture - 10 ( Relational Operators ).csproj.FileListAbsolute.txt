@@ -1,0 +1,7 @@
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 10 ( Relational Operators )\Lecture - 10 ( Relational Operators )\bin\Debug\Lecture - 10 ( Relational Operators ).exe.config
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 10 ( Relational Operators )\Lecture - 10 ( Relational Operators )\bin\Debug\Lecture - 10 ( Relational Operators ).exe
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 10 ( Relational Operators )\Lecture - 10 ( Relational Operators )\bin\Debug\Lecture - 10 ( Relational Operators ).pdb
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 10 ( Relational Operators )\Lecture - 10 ( Relational Operators )\obj\Debug\Lecture - 10 ( Relational Operators ).csproj.AssemblyReference.cache
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 10 ( Relational Operators )\Lecture - 10 ( Relational Operators )\obj\Debug\Lecture - 10 ( Relational Operators ).csproj.CoreCompileInputs.cache
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 10 ( Relational Operators )\Lecture - 10 ( Relational Operators )\obj\Debug\Lecture - 10 ( Relational Operators ).exe
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 10 ( Relational Operators )\Lecture - 10 ( Relational Operators )\obj\Debug\Lecture - 10 ( Relational Operators ).pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lecture - 29 ( Arrays in C-Sharph )", "Lecture - 29 ( Arrays in C-Sharph )\Lecture - 29 ( Arrays in C-Sharph ).csproj", "{CBB258F9-2F0A-4ED8-86CD-C420A2612AAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBB258F9-2F0A-4ED8-86CD-C420A2612AAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBB258F9-2F0A-4ED8-86CD-C420A2612AAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBB258F9-2F0A-4ED8-86CD-C420A2612AAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBB258F9-2F0A-4ED8-86CD-C420A2612AAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FE833A6-F8FF-4BD9-8C14-66C3D5827552}
+	EndGlobalSection
+EndGlobal

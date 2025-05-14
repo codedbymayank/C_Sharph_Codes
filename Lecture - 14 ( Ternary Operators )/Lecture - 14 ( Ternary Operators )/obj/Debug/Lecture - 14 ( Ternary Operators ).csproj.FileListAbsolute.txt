@@ -1,0 +1,7 @@
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 14 ( Ternary Operators )\Lecture - 14 ( Ternary Operators )\bin\Debug\Lecture - 14 ( Ternary Operators ).exe.config
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 14 ( Ternary Operators )\Lecture - 14 ( Ternary Operators )\bin\Debug\Lecture - 14 ( Ternary Operators ).exe
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 14 ( Ternary Operators )\Lecture - 14 ( Ternary Operators )\bin\Debug\Lecture - 14 ( Ternary Operators ).pdb
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 14 ( Ternary Operators )\Lecture - 14 ( Ternary Operators )\obj\Debug\Lecture - 14 ( Ternary Operators ).csproj.AssemblyReference.cache
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 14 ( Ternary Operators )\Lecture - 14 ( Ternary Operators )\obj\Debug\Lecture - 14 ( Ternary Operators ).csproj.CoreCompileInputs.cache
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 14 ( Ternary Operators )\Lecture - 14 ( Ternary Operators )\obj\Debug\Lecture - 14 ( Ternary Operators ).exe
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 14 ( Ternary Operators )\Lecture - 14 ( Ternary Operators )\obj\Debug\Lecture - 14 ( Ternary Operators ).pdb

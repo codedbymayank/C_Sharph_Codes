@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lecture - 12 ( Assignment Operators )", "Lecture - 12 ( Assignment Operators )\Lecture - 12 ( Assignment Operators ).csproj", "{C729870D-6638-4A3D-A0B6-6FB0225182B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C729870D-6638-4A3D-A0B6-6FB0225182B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C729870D-6638-4A3D-A0B6-6FB0225182B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C729870D-6638-4A3D-A0B6-6FB0225182B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C729870D-6638-4A3D-A0B6-6FB0225182B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D752F007-D67C-4ACC-ACCB-1D978223D932}
+	EndGlobalSection
+EndGlobal

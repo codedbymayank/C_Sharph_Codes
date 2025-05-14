@@ -1,0 +1,7 @@
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 30 ( Access array using foreach loop )\Lecture - 30 ( Access array using foreach loop )\bin\Debug\Lecture - 30 ( Access array using foreach loop ).exe.config
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 30 ( Access array using foreach loop )\Lecture - 30 ( Access array using foreach loop )\bin\Debug\Lecture - 30 ( Access array using foreach loop ).exe
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 30 ( Access array using foreach loop )\Lecture - 30 ( Access array using foreach loop )\bin\Debug\Lecture - 30 ( Access array using foreach loop ).pdb
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 30 ( Access array using foreach loop )\Lecture - 30 ( Access array using foreach loop )\obj\Debug\Lecture - 30 ( Access array using foreach loop ).csproj.AssemblyReference.cache
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 30 ( Access array using foreach loop )\Lecture - 30 ( Access array using foreach loop )\obj\Debug\Lecture - 30 ( Access array using foreach loop ).csproj.CoreCompileInputs.cache
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 30 ( Access array using foreach loop )\Lecture - 30 ( Access array using foreach loop )\obj\Debug\Lecture - 30 ( Access array using foreach loop ).exe
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 30 ( Access array using foreach loop )\Lecture - 30 ( Access array using foreach loop )\obj\Debug\Lecture - 30 ( Access array using foreach loop ).pdb

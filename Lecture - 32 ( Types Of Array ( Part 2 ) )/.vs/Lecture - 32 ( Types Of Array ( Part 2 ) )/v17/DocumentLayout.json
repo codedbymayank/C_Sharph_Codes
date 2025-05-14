@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mayank Pal\\Desktop\\C-Sharph-Tutorial\\Lecture - 32 ( Types Of Array ( Part 2 ) )\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB1B9331-DB1D-4C03-9077-4257D96ABECC}|Lecture - 32 ( Types Of Array ( Part 2 ) )\\Lecture - 32 ( Types Of Array ( Part 2 ) ).csproj|c:\\users\\mayank pal\\desktop\\c-sharph-tutorial\\lecture - 32 ( types of array ( part 2 ) )\\lecture - 32 ( types of array ( part 2 ) )\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB1B9331-DB1D-4C03-9077-4257D96ABECC}|Lecture - 32 ( Types Of Array ( Part 2 ) )\\Lecture - 32 ( Types Of Array ( Part 2 ) ).csproj|solutionrelative:lecture - 32 ( types of array ( part 2 ) )\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mayank Pal\\Desktop\\C-Sharph-Tutorial\\Lecture - 32 ( Types Of Array ( Part 2 ) )\\Lecture - 32 ( Types Of Array ( Part 2 ) )\\Program.cs",
+              "RelativeDocumentMoniker": "Lecture - 32 ( Types Of Array ( Part 2 ) )\\Program.cs",
+              "ToolTip": "C:\\Users\\Mayank Pal\\Desktop\\C-Sharph-Tutorial\\Lecture - 32 ( Types Of Array ( Part 2 ) )\\Lecture - 32 ( Types Of Array ( Part 2 ) )\\Program.cs",
+              "RelativeToolTip": "Lecture - 32 ( Types Of Array ( Part 2 ) )\\Program.cs",
+              "ViewState": "AgIAAAgAAAAwMzMzMzMwwBoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T14:19:10.949Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

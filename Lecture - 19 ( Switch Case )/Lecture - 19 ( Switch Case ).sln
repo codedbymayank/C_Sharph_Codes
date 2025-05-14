@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lecture - 19 ( Switch Case )", "Lecture - 19 ( Switch Case )\Lecture - 19 ( Switch Case ).csproj", "{83FA0A9A-A15C-4CD2-8BB4-D4946F79F04A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83FA0A9A-A15C-4CD2-8BB4-D4946F79F04A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83FA0A9A-A15C-4CD2-8BB4-D4946F79F04A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83FA0A9A-A15C-4CD2-8BB4-D4946F79F04A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83FA0A9A-A15C-4CD2-8BB4-D4946F79F04A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C248CA1-60F0-4192-A5A1-A4ED1B35F9C1}
+	EndGlobalSection
+EndGlobal

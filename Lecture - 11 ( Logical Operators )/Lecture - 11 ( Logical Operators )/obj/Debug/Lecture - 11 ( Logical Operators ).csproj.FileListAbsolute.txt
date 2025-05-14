@@ -1,0 +1,7 @@
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 11 ( Logical Operators )\Lecture - 11 ( Logical Operators )\bin\Debug\Lecture - 11 ( Logical Operators ).exe.config
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 11 ( Logical Operators )\Lecture - 11 ( Logical Operators )\bin\Debug\Lecture - 11 ( Logical Operators ).exe
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 11 ( Logical Operators )\Lecture - 11 ( Logical Operators )\bin\Debug\Lecture - 11 ( Logical Operators ).pdb
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 11 ( Logical Operators )\Lecture - 11 ( Logical Operators )\obj\Debug\Lecture - 11 ( Logical Operators ).csproj.AssemblyReference.cache
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 11 ( Logical Operators )\Lecture - 11 ( Logical Operators )\obj\Debug\Lecture - 11 ( Logical Operators ).csproj.CoreCompileInputs.cache
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 11 ( Logical Operators )\Lecture - 11 ( Logical Operators )\obj\Debug\Lecture - 11 ( Logical Operators ).exe
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 11 ( Logical Operators )\Lecture - 11 ( Logical Operators )\obj\Debug\Lecture - 11 ( Logical Operators ).pdb

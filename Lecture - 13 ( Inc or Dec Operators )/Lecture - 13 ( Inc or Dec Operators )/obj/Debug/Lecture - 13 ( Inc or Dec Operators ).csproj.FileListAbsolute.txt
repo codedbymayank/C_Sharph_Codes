@@ -1,0 +1,7 @@
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 13 ( Inc or Dec Operators )\Lecture - 13 ( Inc or Dec Operators )\bin\Debug\Lecture - 13 ( Inc or Dec Operators ).exe.config
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 13 ( Inc or Dec Operators )\Lecture - 13 ( Inc or Dec Operators )\bin\Debug\Lecture - 13 ( Inc or Dec Operators ).exe
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 13 ( Inc or Dec Operators )\Lecture - 13 ( Inc or Dec Operators )\bin\Debug\Lecture - 13 ( Inc or Dec Operators ).pdb
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 13 ( Inc or Dec Operators )\Lecture - 13 ( Inc or Dec Operators )\obj\Debug\Lecture - 13 ( Inc or Dec Operators ).csproj.AssemblyReference.cache
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 13 ( Inc or Dec Operators )\Lecture - 13 ( Inc or Dec Operators )\obj\Debug\Lecture - 13 ( Inc or Dec Operators ).csproj.CoreCompileInputs.cache
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 13 ( Inc or Dec Operators )\Lecture - 13 ( Inc or Dec Operators )\obj\Debug\Lecture - 13 ( Inc or Dec Operators ).exe
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 13 ( Inc or Dec Operators )\Lecture - 13 ( Inc or Dec Operators )\obj\Debug\Lecture - 13 ( Inc or Dec Operators ).pdb

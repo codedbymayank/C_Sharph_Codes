@@ -1,0 +1,7 @@
+C:\Users\mayan\OneDrive\Desktop\C-Sharph Tutorial\Lecture - 03 ( Namespace & Main Method )\Lecture - 03 ( Namespace & Main Method )\bin\Debug\Lecture - 03 ( Namespace & Main Method ).exe.config
+C:\Users\mayan\OneDrive\Desktop\C-Sharph Tutorial\Lecture - 03 ( Namespace & Main Method )\Lecture - 03 ( Namespace & Main Method )\bin\Debug\Lecture - 03 ( Namespace & Main Method ).exe
+C:\Users\mayan\OneDrive\Desktop\C-Sharph Tutorial\Lecture - 03 ( Namespace & Main Method )\Lecture - 03 ( Namespace & Main Method )\bin\Debug\Lecture - 03 ( Namespace & Main Method ).pdb
+C:\Users\mayan\OneDrive\Desktop\C-Sharph Tutorial\Lecture - 03 ( Namespace & Main Method )\Lecture - 03 ( Namespace & Main Method )\obj\Debug\Lecture - 03 ( Namespace & Main Method ).csproj.AssemblyReference.cache
+C:\Users\mayan\OneDrive\Desktop\C-Sharph Tutorial\Lecture - 03 ( Namespace & Main Method )\Lecture - 03 ( Namespace & Main Method )\obj\Debug\Lecture - 03 ( Namespace & Main Method ).csproj.CoreCompileInputs.cache
+C:\Users\mayan\OneDrive\Desktop\C-Sharph Tutorial\Lecture - 03 ( Namespace & Main Method )\Lecture - 03 ( Namespace & Main Method )\obj\Debug\Lecture - 03 ( Namespace & Main Method ).exe
+C:\Users\mayan\OneDrive\Desktop\C-Sharph Tutorial\Lecture - 03 ( Namespace & Main Method )\Lecture - 03 ( Namespace & Main Method )\obj\Debug\Lecture - 03 ( Namespace & Main Method ).pdb

@@ -1,0 +1,7 @@
+C:\Users\mayan\OneDrive\Desktop\C-Sharph Tutorial\Lecture - 04 ( Reading & Writing to the Console )\Lecture - 04 ( Reading & Writing to the Console )\bin\Debug\Lecture - 04 ( Reading & Writing to the Console ).exe.config
+C:\Users\mayan\OneDrive\Desktop\C-Sharph Tutorial\Lecture - 04 ( Reading & Writing to the Console )\Lecture - 04 ( Reading & Writing to the Console )\bin\Debug\Lecture - 04 ( Reading & Writing to the Console ).exe
+C:\Users\mayan\OneDrive\Desktop\C-Sharph Tutorial\Lecture - 04 ( Reading & Writing to the Console )\Lecture - 04 ( Reading & Writing to the Console )\bin\Debug\Lecture - 04 ( Reading & Writing to the Console ).pdb
+C:\Users\mayan\OneDrive\Desktop\C-Sharph Tutorial\Lecture - 04 ( Reading & Writing to the Console )\Lecture - 04 ( Reading & Writing to the Console )\obj\Debug\Lecture - 04 ( Reading & Writing to the Console ).csproj.AssemblyReference.cache
+C:\Users\mayan\OneDrive\Desktop\C-Sharph Tutorial\Lecture - 04 ( Reading & Writing to the Console )\Lecture - 04 ( Reading & Writing to the Console )\obj\Debug\Lecture - 04 ( Reading & Writing to the Console ).csproj.CoreCompileInputs.cache
+C:\Users\mayan\OneDrive\Desktop\C-Sharph Tutorial\Lecture - 04 ( Reading & Writing to the Console )\Lecture - 04 ( Reading & Writing to the Console )\obj\Debug\Lecture - 04 ( Reading & Writing to the Console ).exe
+C:\Users\mayan\OneDrive\Desktop\C-Sharph Tutorial\Lecture - 04 ( Reading & Writing to the Console )\Lecture - 04 ( Reading & Writing to the Console )\obj\Debug\Lecture - 04 ( Reading & Writing to the Console ).pdb

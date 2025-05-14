@@ -1,0 +1,7 @@
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 06 ( Constant Variable )\Lecture - 06 ( Constant Variable )\bin\Debug\Lecture - 06 ( Constant Variable ).exe.config
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 06 ( Constant Variable )\Lecture - 06 ( Constant Variable )\bin\Debug\Lecture - 06 ( Constant Variable ).exe
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 06 ( Constant Variable )\Lecture - 06 ( Constant Variable )\bin\Debug\Lecture - 06 ( Constant Variable ).pdb
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 06 ( Constant Variable )\Lecture - 06 ( Constant Variable )\obj\Debug\Lecture - 06 ( Constant Variable ).csproj.AssemblyReference.cache
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 06 ( Constant Variable )\Lecture - 06 ( Constant Variable )\obj\Debug\Lecture - 06 ( Constant Variable ).csproj.CoreCompileInputs.cache
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 06 ( Constant Variable )\Lecture - 06 ( Constant Variable )\obj\Debug\Lecture - 06 ( Constant Variable ).exe
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 06 ( Constant Variable )\Lecture - 06 ( Constant Variable )\obj\Debug\Lecture - 06 ( Constant Variable ).pdb

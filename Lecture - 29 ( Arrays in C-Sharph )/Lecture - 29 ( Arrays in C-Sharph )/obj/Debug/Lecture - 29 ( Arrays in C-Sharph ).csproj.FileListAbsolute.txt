@@ -1,0 +1,7 @@
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 29 ( Arrays in C-Sharph )\Lecture - 29 ( Arrays in C-Sharph )\bin\Debug\Lecture - 29 ( Arrays in C-Sharph ).exe.config
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 29 ( Arrays in C-Sharph )\Lecture - 29 ( Arrays in C-Sharph )\bin\Debug\Lecture - 29 ( Arrays in C-Sharph ).exe
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 29 ( Arrays in C-Sharph )\Lecture - 29 ( Arrays in C-Sharph )\bin\Debug\Lecture - 29 ( Arrays in C-Sharph ).pdb
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 29 ( Arrays in C-Sharph )\Lecture - 29 ( Arrays in C-Sharph )\obj\Debug\Lecture - 29 ( Arrays in C-Sharph ).csproj.AssemblyReference.cache
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 29 ( Arrays in C-Sharph )\Lecture - 29 ( Arrays in C-Sharph )\obj\Debug\Lecture - 29 ( Arrays in C-Sharph ).csproj.CoreCompileInputs.cache
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 29 ( Arrays in C-Sharph )\Lecture - 29 ( Arrays in C-Sharph )\obj\Debug\Lecture - 29 ( Arrays in C-Sharph ).exe
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 29 ( Arrays in C-Sharph )\Lecture - 29 ( Arrays in C-Sharph )\obj\Debug\Lecture - 29 ( Arrays in C-Sharph ).pdb

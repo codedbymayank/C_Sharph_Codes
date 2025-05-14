@@ -1,0 +1,7 @@
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 20 ( Nested Switch Case )\Lecture - 20 ( Nested Switch Case )\bin\Debug\Lecture - 20 ( Nested Switch Case ).exe.config
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 20 ( Nested Switch Case )\Lecture - 20 ( Nested Switch Case )\bin\Debug\Lecture - 20 ( Nested Switch Case ).exe
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 20 ( Nested Switch Case )\Lecture - 20 ( Nested Switch Case )\bin\Debug\Lecture - 20 ( Nested Switch Case ).pdb
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 20 ( Nested Switch Case )\Lecture - 20 ( Nested Switch Case )\obj\Debug\Lecture - 20 ( Nested Switch Case ).csproj.AssemblyReference.cache
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 20 ( Nested Switch Case )\Lecture - 20 ( Nested Switch Case )\obj\Debug\Lecture - 20 ( Nested Switch Case ).csproj.CoreCompileInputs.cache
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 20 ( Nested Switch Case )\Lecture - 20 ( Nested Switch Case )\obj\Debug\Lecture - 20 ( Nested Switch Case ).exe
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 20 ( Nested Switch Case )\Lecture - 20 ( Nested Switch Case )\obj\Debug\Lecture - 20 ( Nested Switch Case ).pdb

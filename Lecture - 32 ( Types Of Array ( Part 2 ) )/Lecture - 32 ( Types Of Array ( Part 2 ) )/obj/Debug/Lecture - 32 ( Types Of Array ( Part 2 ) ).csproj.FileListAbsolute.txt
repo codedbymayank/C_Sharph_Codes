@@ -1,0 +1,7 @@
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 32 ( Types Of Array ( Part 2 ) )\Lecture - 32 ( Types Of Array ( Part 2 ) )\bin\Debug\Lecture - 32 ( Types Of Array ( Part 2 ) ).exe.config
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 32 ( Types Of Array ( Part 2 ) )\Lecture - 32 ( Types Of Array ( Part 2 ) )\bin\Debug\Lecture - 32 ( Types Of Array ( Part 2 ) ).exe
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 32 ( Types Of Array ( Part 2 ) )\Lecture - 32 ( Types Of Array ( Part 2 ) )\bin\Debug\Lecture - 32 ( Types Of Array ( Part 2 ) ).pdb
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 32 ( Types Of Array ( Part 2 ) )\Lecture - 32 ( Types Of Array ( Part 2 ) )\obj\Debug\Lecture - 32 ( Types Of Array ( Part 2 ) ).csproj.AssemblyReference.cache
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 32 ( Types Of Array ( Part 2 ) )\Lecture - 32 ( Types Of Array ( Part 2 ) )\obj\Debug\Lecture - 32 ( Types Of Array ( Part 2 ) ).csproj.CoreCompileInputs.cache
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 32 ( Types Of Array ( Part 2 ) )\Lecture - 32 ( Types Of Array ( Part 2 ) )\obj\Debug\Lecture - 32 ( Types Of Array ( Part 2 ) ).exe
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 32 ( Types Of Array ( Part 2 ) )\Lecture - 32 ( Types Of Array ( Part 2 ) )\obj\Debug\Lecture - 32 ( Types Of Array ( Part 2 ) ).pdb

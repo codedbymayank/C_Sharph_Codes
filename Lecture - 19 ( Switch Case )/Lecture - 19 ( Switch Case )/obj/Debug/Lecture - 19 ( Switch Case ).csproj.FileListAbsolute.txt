@@ -1,0 +1,7 @@
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 19 ( Switch Case )\Lecture - 19 ( Switch Case )\bin\Debug\Lecture - 19 ( Switch Case ).exe.config
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 19 ( Switch Case )\Lecture - 19 ( Switch Case )\bin\Debug\Lecture - 19 ( Switch Case ).exe
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 19 ( Switch Case )\Lecture - 19 ( Switch Case )\bin\Debug\Lecture - 19 ( Switch Case ).pdb
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 19 ( Switch Case )\Lecture - 19 ( Switch Case )\obj\Debug\Lecture - 19 ( Switch Case ).csproj.AssemblyReference.cache
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 19 ( Switch Case )\Lecture - 19 ( Switch Case )\obj\Debug\Lecture - 19 ( Switch Case ).csproj.CoreCompileInputs.cache
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 19 ( Switch Case )\Lecture - 19 ( Switch Case )\obj\Debug\Lecture - 19 ( Switch Case ).exe
+C:\Users\Mayank Pal\Desktop\C-Sharph-Tutorial\Lecture - 19 ( Switch Case )\Lecture - 19 ( Switch Case )\obj\Debug\Lecture - 19 ( Switch Case ).pdb

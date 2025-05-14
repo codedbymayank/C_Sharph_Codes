@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lecture - 10 ( Relational Operators )", "Lecture - 10 ( Relational Operators )\Lecture - 10 ( Relational Operators ).csproj", "{C53631E0-C51C-4EAC-BEEF-3E3E9C454095}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C53631E0-C51C-4EAC-BEEF-3E3E9C454095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C53631E0-C51C-4EAC-BEEF-3E3E9C454095}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C53631E0-C51C-4EAC-BEEF-3E3E9C454095}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C53631E0-C51C-4EAC-BEEF-3E3E9C454095}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F0B663E-027B-48A2-8CD8-7378B61E2101}
+	EndGlobalSection
+EndGlobal
