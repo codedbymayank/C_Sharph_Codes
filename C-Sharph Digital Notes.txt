@@ -1,0 +1,61 @@
+Constructor :- 
+
+-> It is a special method of class which automatically invoked whenever a instance of class is created.
+-> Like a method it contains set of instruction which are execute at the time of object creation.
+-> It is used to assign initial values to the datamember of that same class .
+-> Constructor name is same name as a class name.
+-> A class can have any nymmber of constructors but there should be difference like making a parameterize or something else.
+-> Constructor can not be final , abstract or syncrhonized
+
+Example :- 
+ class Constructorclass
+ {
+     public Constructorclass()
+     {
+         Console.WriteLine("Welcome Back");
+     }
+ }
+
+Types Of Constructor :- 
+1. Default Constructor 
+2. Parameterized Constructor 
+3. Copy Constructor 
+4. Private Constructor 
+5. Static Constructor 
+
+1. Default Constructor :- 
+-> It have no parameters 
+-> All time u create a object for this class inside a method which is inside that class only , value for all variables intiliaze with same values , until u are not initializing them. And to access those variables u have to create a method with in same class only.
+
+2. Parameterized Constructor :- 
+-> Its just nothing more than passing values during creating a object of a constructor 
+
+3. Copy Constructor :- 
+-> When u wanna create a object of a constructor , but using values of previous object of same constructor 
+-> Its is useful when u wanna create a object based on previous object created 
+-> for copyconstructor , u need to pass an previously created object in which u are passing values 
+
+4. Private Constructor :- 
+-> It can be called inside that class only where its defined
+-> When u dont wanna to create a object from your class 
+-> U are creating a singleton where a single object of class is exist
+-> You wanna class to hold static methods , properties and etc and its should  not be initiated .
+
+5. Static Constructor :- 
+-> Its does not have any access modifier 
+-> It automatically invoked before first reference to static member to a class .
+-> It can't called directly 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

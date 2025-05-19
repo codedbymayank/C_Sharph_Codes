@@ -1,0 +1,8 @@
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Constructors & Its Types )\Lecture - ( Constructors & Its Types )\bin\Debug\Lecture - ( Constructors & Its Types ).exe.config
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Constructors & Its Types )\Lecture - ( Constructors & Its Types )\bin\Debug\Lecture - ( Constructors & Its Types ).exe
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Constructors & Its Types )\Lecture - ( Constructors & Its Types )\bin\Debug\Lecture - ( Constructors & Its Types ).pdb
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Constructors & Its Types )\Lecture - ( Constructors & Its Types )\obj\Debug\Lecture - ( Constructors & Its Types ).csproj.AssemblyReference.cache
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Constructors & Its Types )\Lecture - ( Constructors & Its Types )\obj\Debug\Lecture - ( Constructors & Its Types ).csproj.CoreCompileInputs.cache
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Constructors & Its Types )\Lecture - ( Constructors & Its Types )\obj\Debug\Lecture - ( Constructors & Its Types ).exe
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Constructors & Its Types )\Lecture - ( Constructors & Its Types )\obj\Debug\Lecture - ( Constructors & Its Types ).pdb
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Constructors & Its Types )\Lecture - ( Constructors & Its Types )\obj\Debug\Lecture - ( Constructors & Its Types ).exe.config
