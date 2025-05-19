@@ -80,7 +80,23 @@ Lecture - ( Encapsulation )
 -> Overall we are not accessing , how data is stored in a variables
 
 
+Lecture - ( Abstraction ) :- Pending
 
+-> Basically which only shows that info which is important for user , and not that which is not imp to user 
+
+Lecture :- ( Abstract Class )
+-> Basically when we want to define a common for group of related classess , so for that we use abstract class 
+-> In this only method are defines and we provide their body in which this class is inherited .
+-> Object class can not be created for this type of classess .
+-> we can use abstract class during inheritance 
+-> If there is a abstract method inside abstract class , then to give implementation of that body in child class we need to use override keyword
+-> It can't be static.
+-> If there is a normal method in abstract class , then it work normally like using virtual and override keyword
+
+
+
+
+In encapsulation we are hiding inner implementation of that class , but in abstraction we not doing that much instead of it we are trying to show only info which is imp to user .
 
 
 
