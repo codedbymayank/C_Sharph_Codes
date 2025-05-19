@@ -71,7 +71,13 @@ Types Of Inheritance :-
 4. Multiple & Hybrid Inheritance :- In C# it is not possible to do using classess , but its possible through interface
 Interface :- In a class where interface is inherited , only there we give body of that interface
 
+Lecture - ( Encapsulation ) 
 
+-> Binding a data and information in a single unit 
+-> Basically in this members which are inside that class are hide from another class , they are only accessible through function or method which are present in that class only 
+-> It can be achieved by creating private variables and getting or setting values through properties
+-> It's better to hide inner implemenmtation of class , flexibility according to requirements . 
+-> Overall we are not accessing , how data is stored in a variables
 
 
 
