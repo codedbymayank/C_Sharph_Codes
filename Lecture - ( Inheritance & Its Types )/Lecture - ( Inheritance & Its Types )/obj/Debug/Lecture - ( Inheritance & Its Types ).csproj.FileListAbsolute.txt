@@ -1,0 +1,8 @@
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Inheritance & Its Types )\Lecture - ( Inheritance & Its Types )\bin\Debug\Lecture - ( Inheritance & Its Types ).exe.config
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Inheritance & Its Types )\Lecture - ( Inheritance & Its Types )\bin\Debug\Lecture - ( Inheritance & Its Types ).exe
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Inheritance & Its Types )\Lecture - ( Inheritance & Its Types )\bin\Debug\Lecture - ( Inheritance & Its Types ).pdb
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Inheritance & Its Types )\Lecture - ( Inheritance & Its Types )\obj\Debug\Lecture - ( Inheritance & Its Types ).csproj.AssemblyReference.cache
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Inheritance & Its Types )\Lecture - ( Inheritance & Its Types )\obj\Debug\Lecture - ( Inheritance & Its Types ).csproj.CoreCompileInputs.cache
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Inheritance & Its Types )\Lecture - ( Inheritance & Its Types )\obj\Debug\Lecture - ( Inheritance & Its Types ).exe
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Inheritance & Its Types )\Lecture - ( Inheritance & Its Types )\obj\Debug\Lecture - ( Inheritance & Its Types ).pdb
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Inheritance & Its Types )\Lecture - ( Inheritance & Its Types )\obj\Debug\Lecture - ( Inheritance & Its Types ).exe.config

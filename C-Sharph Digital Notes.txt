@@ -1,3 +1,5 @@
+Lecture - ( Constructor & Its Types )
+
 Constructor :- 
 
 -> It is a special method of class which automatically invoked whenever a instance of class is created.
@@ -45,6 +47,40 @@ Types Of Constructor :-
 -> Its does not have any access modifier 
 -> It automatically invoked before first reference to static member to a class .
 -> It can't called directly 
+
+
+Lecture - ( Inheritance & Its Types )
+
+Inheritance :- 
+-> Basically where a child class inherits properties , method or variables of parent class or base class
+
+Types Of Inheritance :- 
+1. Single Inheritance
+2. Multilevel Inheritance
+3. Heiraichal Inheritance
+4. Multiple 
+
+1. Single Inheritance :- 
+-> Let suppose there are two classess , one is A and another one is B . A is a parent class which will be inherit by class B which is a child class , that's a single inheritance .
+
+2. Multilevel Inheritance :- 
+-> Let suppose there are three classess A , B , C . So there will be a parent class A for B and B for C . This is known as Multilevel Inheritance 
+
+3. Herarchical Inheritance :- Similar to above one , only the difference is A class can be parent class for B & C both .
+
+4. Multiple & Hybrid Inheritance :- In C# it is not possible to do using classess , but its possible through interface
+Interface :- In a class where interface is inherited , only there we give body of that interface
+
+
+
+
+
+
+
+
+
+
+
 
 
 
