@@ -10,6 +10,7 @@ namespace Lecture_____Abstraction__
     {
         static void Main(string[] args)
         {
+
         }
     }
 }

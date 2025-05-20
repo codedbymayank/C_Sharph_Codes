@@ -1,0 +1,7 @@
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Interfaces )\Lecture - ( Interfaces )\obj\Debug\Lecture - ( Interfaces ).csproj.AssemblyReference.cache
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Interfaces )\Lecture - ( Interfaces )\obj\Debug\Lecture - ( Interfaces ).csproj.CoreCompileInputs.cache
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Interfaces )\Lecture - ( Interfaces )\bin\Debug\Lecture - ( Interfaces ).exe.config
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Interfaces )\Lecture - ( Interfaces )\bin\Debug\Lecture - ( Interfaces ).exe
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Interfaces )\Lecture - ( Interfaces )\bin\Debug\Lecture - ( Interfaces ).pdb
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Interfaces )\Lecture - ( Interfaces )\obj\Debug\Lecture - ( Interfaces ).exe
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Interfaces )\Lecture - ( Interfaces )\obj\Debug\Lecture - ( Interfaces ).pdb
