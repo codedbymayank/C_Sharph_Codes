@@ -121,6 +121,11 @@ Lecture :- ( String & StringBuilder )
 
 -> StringBuilder concept is define because we can do any changes in string , but with the help of stringbuilder we can do that
 
+Lecture - ( Indexers ) 
+
+-> With the help of indexers , u can access elements which are inside the object of class like an accessing is working in array. And Even u can change values too at particular position 
+-> It can use multiple parameters
+-> Multidimensional arrays are also same like it 
 
 
 

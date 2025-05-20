@@ -1,5 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
+
+/*
+    for only array
+    System.Array
+ */
 using System.Collections;
 using System.Linq;
 using System.Text;
