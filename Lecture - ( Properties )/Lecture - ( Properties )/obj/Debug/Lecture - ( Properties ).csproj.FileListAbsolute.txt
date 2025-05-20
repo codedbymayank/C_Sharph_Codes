@@ -1,0 +1,7 @@
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Properties )\Lecture - ( Properties )\bin\Debug\Lecture - ( Properties ).exe.config
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Properties )\Lecture - ( Properties )\bin\Debug\Lecture - ( Properties ).exe
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Properties )\Lecture - ( Properties )\bin\Debug\Lecture - ( Properties ).pdb
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Properties )\Lecture - ( Properties )\obj\Debug\Lecture - ( Properties ).csproj.AssemblyReference.cache
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Properties )\Lecture - ( Properties )\obj\Debug\Lecture - ( Properties ).csproj.CoreCompileInputs.cache
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Properties )\Lecture - ( Properties )\obj\Debug\Lecture - ( Properties ).exe
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Properties )\Lecture - ( Properties )\obj\Debug\Lecture - ( Properties ).pdb

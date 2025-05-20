@@ -127,6 +127,23 @@ Lecture - ( Indexers )
 -> It can use multiple parameters
 -> Multidimensional arrays are also same like it 
 
+Lecture - ( Properties ) :-
+
+-> These are those types of class members which provide a flexible way to read and write data .
+-> It's easy way to access data
+-> The block set & Get is known as accessor 
+-> Properties is same as like variables only the difference is we are using get and set accessors to not to access variables directly
+
+There are 4 types of properties :- 
+1. Read Only
+2. Read-Write Only
+3. Write Only
+4. Auto Implemented Prop :- It introduced in 3.0 version of c#
+
+-> In properties we can't use ref and out keyword
+-> We can't use multiple get or set accessors for a single property
+-> We can't change the value inside accessor
+
 
 
 
