@@ -144,8 +144,16 @@ There are 4 types of properties :-
 -> We can't use multiple get or set accessors for a single property
 -> We can't change the value inside accessor
 
+Lecture - ( Polymorphism ) 
 
+-> It means many forms
+-> A single interface can be used for different datatypes for improving code flexibility and reusibility 
+-> It can be achieve through method overloading and method overriding 
+-> basically ek hi method ke multiple forms 
 
+Types Of Polymorphism :- 
+1. Compile Time ( Method Overloading & Operator Overloading )
+2. Run Time ( Method Overriding )
 
 
 
