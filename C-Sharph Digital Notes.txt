@@ -117,6 +117,9 @@ ArrayList can have 3 Constructors :-
 2. ArrayList(int32) :- Its empoty but have some intial capacity
 3. ArrayList(ICollection) :- Means u can intialize with some existing collections like array , list and etc . And have same initial capacity 
 
+Lecture :- ( String & StringBuilder ) 
+
+-> StringBuilder concept is define because we can do any changes in string , but with the help of stringbuilder we can do that
 
 
 
