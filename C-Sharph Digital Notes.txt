@@ -93,10 +93,29 @@ Lecture :- ( Abstract Class )
 -> It can't be static.
 -> If there is a normal method in abstract class , then it work normally like using virtual and override keyword
 
-
-
-
 In encapsulation we are hiding inner implementation of that class , but in abstraction we not doing that much instead of it we are trying to show only info which is imp to user .
+
+
+Lecture :- ( Interface ) 
+
+-> Similar to class
+-> It also contains methods , properties and events 
+-> It only contains declaration of members which are inside interface 
+-> Implementation of those members which are inside this interface , will going to be done inside that class which inherits that interface 
+-> Interface can't be private , because if they are private then there's no use of those interface 
+-> All members are prublic and abstract by default which are inside interface 
+-> We implement multiple interface inside a single class
+-> In above 7.3 version of C# , u can use public keyword inside interface , but less than it no need to use public keyword
+
+Lecture - ( Array List ) 
+-> It's a non-generic means u can store element of any type which is defined in system.collection namespace .
+-> size of arraylist can be change according to no of elements 
+-> It can implement IEnumerable , Icollection , IList
+
+ArrayList can have 3 Constructors :- 
+1. ArrayList() :- This is empty and have no starting size 
+2. ArrayList(int32) :- Its empoty but have some intial capacity
+3. ArrayList(ICollection) :- Means u can intialize with some existing collections like array , list and etc . And have same initial capacity 
 
 
 
