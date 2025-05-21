@@ -179,8 +179,16 @@ Ways to intialize a structure :-
 Immutable Structs :- means in which we can't anything , and for that we use readonly keyword with variables which are inside struct
 
 
+Lecture - ( Delegates ) :- 
 
+-> It is like a refrence or pointer to a method 
+-> It knows how to call a method for us 
+-> A delegates allow u to pass a method as a parameter , store them and execute later .
+-> It ensures that which method its pointing would have same no of parameters and return type too 
 
+example :- delegate as a remote control for a tv , which only send command to tv . It does not perform action itself like changing a channel itself 
+
+-> Basically delegate is being like holding a refrence of a method and call it when needed . It doen't execute code directly 
 
 
 
