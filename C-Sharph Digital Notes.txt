@@ -156,6 +156,45 @@ Types Of Polymorphism :-
 2. Run Time ( Method Overriding )
 
 
+Lecture - ( Struct ) 
+
+-> It helps us to make a single variable which can hold variables of different data types
+-> For this we use struct keyword
+-> By default variables inside struct is private
+-> Like classess structs can not inherit in another class or structs
+-> Structs can implement one or more than one interfaces
+-> Structs cane not be abstract , virtual or protected 
+-> It does not have default constructor
+-> It doesn't support inheritance
+-> classess are ref type but structs are value type
+
+
+
+Ways to intialize a structure :- 
+1. Using parameterized constructor
+2. Using new keyword
+3. Without using new keyword , u can initialize them before use 
+
+
+Immutable Structs :- means in which we can't anything , and for that we use readonly keyword with variables which are inside struct
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

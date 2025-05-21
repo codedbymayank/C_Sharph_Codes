@@ -1,0 +1,8 @@
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Structures )\Lecture - ( Structures )\bin\Debug\Lecture - ( Structures ).exe.config
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Structures )\Lecture - ( Structures )\bin\Debug\Lecture - ( Structures ).exe
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Structures )\Lecture - ( Structures )\bin\Debug\Lecture - ( Structures ).pdb
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Structures )\Lecture - ( Structures )\obj\Debug\Lecture - ( Structures ).csproj.AssemblyReference.cache
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Structures )\Lecture - ( Structures )\obj\Debug\Lecture - ( Structures ).csproj.CoreCompileInputs.cache
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Structures )\Lecture - ( Structures )\obj\Debug\Lecture - ( Structures ).exe
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Structures )\Lecture - ( Structures )\obj\Debug\Lecture - ( Structures ).pdb
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Structures )\Lecture - ( Structures )\obj\Debug\Lecture - ( Structures ).exe.config
