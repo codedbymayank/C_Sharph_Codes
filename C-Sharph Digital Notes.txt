@@ -188,7 +188,7 @@ Lecture - ( Delegates ) :-
 
 example :- delegate as a remote control for a tv , which only send command to tv . It does not perform action itself like changing a channel itself 
 
--> Basically delegate is being like holding a refrence of a method and call it when needed . It doen't execute code directly 
+-> Basically delegate is being like holding a refrence of a method and call it when needed . It doen't execute code directly.
 
 
 
