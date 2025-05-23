@@ -1,0 +1,7 @@
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Delegates )\Lecture - ( Delegates )\obj\Debug\Lecture - ( Delegates ).csproj.AssemblyReference.cache
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Delegates )\Lecture - ( Delegates )\obj\Debug\Lecture - ( Delegates ).csproj.CoreCompileInputs.cache
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Delegates )\Lecture - ( Delegates )\bin\Debug\Lecture - ( Delegates ).exe.config
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Delegates )\Lecture - ( Delegates )\bin\Debug\Lecture - ( Delegates ).exe
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Delegates )\Lecture - ( Delegates )\bin\Debug\Lecture - ( Delegates ).pdb
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Delegates )\Lecture - ( Delegates )\obj\Debug\Lecture - ( Delegates ).exe
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Delegates )\Lecture - ( Delegates )\obj\Debug\Lecture - ( Delegates ).pdb
