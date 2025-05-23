@@ -1,0 +1,7 @@
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Partial Classess )\Lecture - ( Partial Classess )\bin\Debug\Lecture - ( Partial Classess ).exe.config
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Partial Classess )\Lecture - ( Partial Classess )\bin\Debug\Lecture - ( Partial Classess ).exe
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Partial Classess )\Lecture - ( Partial Classess )\bin\Debug\Lecture - ( Partial Classess ).pdb
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Partial Classess )\Lecture - ( Partial Classess )\obj\Debug\Lecture - ( Partial Classess ).csproj.AssemblyReference.cache
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Partial Classess )\Lecture - ( Partial Classess )\obj\Debug\Lecture - ( Partial Classess ).csproj.CoreCompileInputs.cache
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Partial Classess )\Lecture - ( Partial Classess )\obj\Debug\Lecture - ( Partial Classess ).exe
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Partial Classess )\Lecture - ( Partial Classess )\obj\Debug\Lecture - ( Partial Classess ).pdb

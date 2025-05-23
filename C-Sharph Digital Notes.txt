@@ -191,8 +191,23 @@ example :- delegate as a remote control for a tv , which only send command to tv
 -> Basically delegate is being like holding a refrence of a method and call it when needed . It doen't execute code directly.
 
 
+Lecture - ( Eception Handling ) :- 
 
+-> Basically it means to handle exception while running a program 
+-> It's a way to transfer control from one part of program to another 
+-> It built upon 4 keywords :- try , catch , finally , throw
 
+try :- It identfies a block of code for which exception is activated 
+catch :- It catch exception which is sent by try block 
+throw :- It throws an exception
+finally :- It execute a set of statements wheather a exception is thrown or not 
+
+Lecture - ( Partial Class ) :-
+-> It means split defination of class into multiple files
+-> Basically define a single class into multiple files and when program compiles all this parts combines into a single class 
+-> It should have same access modifier means public , private etc 
+-> It Shouldn't inherit , means u can not derive partial class from another class
+-> It should be in same namespace 
 
 
 
