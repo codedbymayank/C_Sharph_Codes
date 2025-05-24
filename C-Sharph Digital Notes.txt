@@ -108,7 +108,7 @@ Lecture :- ( Interface )
 -> In above 7.3 version of C# , u can use public keyword inside interface , but less than it no need to use public keyword
 
 Lecture - ( Array List ) 
--> It's a non-generic means u can store element of any type which is defined in system.collection namespace .
+-> It's a generic means u can store element of any type which is defined in system.collection.generic namespace .
 -> size of arraylist can be change according to no of elements 
 -> It can implement IEnumerable , Icollection , IList
 
@@ -119,7 +119,7 @@ ArrayList can have 3 Constructors :-
 
 Lecture :- ( String & StringBuilder ) 
 
--> StringBuilder concept is define because we can do any changes in string , but with the help of stringbuilder we can do that
+-> StringBuilder concept is define because we can not do any changes in string , but with the help of stringbuilder we can do that
 
 Lecture - ( Indexers ) 
 
@@ -180,7 +180,7 @@ Immutable Structs :- means in which we can't anything , and for that we use read
 
 
 
-Lecture - ( Eception Handling ) :- 
+Lecture - ( Exception Handling ) :- 
 
 -> Basically it means to handle exception while running a program 
 -> It's a way to transfer control from one part of program to another 
