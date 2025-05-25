@@ -204,7 +204,20 @@ Lecture - ( Delegates ) :-
 -> Delegates means on behalf of u someone is doing that work for u , u are only calling delegate
 -> It's library class in system.namespace 
 
+Lecture - ( Value Type & Refrence Type )
 
+Value Type :- 
+-> Stored actual data directly in stack
+-> Do not allow nullable unless nullable 
+-> Derived from system.valuetype
+-> example :- int , float and etc
+
+Refrence Type :- 
+-> Stored data in a heap and address in stack
+-> Variables hold refrence , not actual object 
+-> can be null
+-> Derived from system.objects
+-> example :- class , string , delegate
 
 
 

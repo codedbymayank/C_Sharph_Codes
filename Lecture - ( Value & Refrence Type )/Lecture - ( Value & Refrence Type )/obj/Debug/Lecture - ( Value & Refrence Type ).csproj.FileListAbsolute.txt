@@ -1,0 +1,7 @@
+C:\Users\mayan\Desktop\C_Sharph_Codes\Lecture - ( Value & Refrence Type )\Lecture - ( Value & Refrence Type )\bin\Debug\Lecture - ( Value & Refrence Type ).exe.config
+C:\Users\mayan\Desktop\C_Sharph_Codes\Lecture - ( Value & Refrence Type )\Lecture - ( Value & Refrence Type )\bin\Debug\Lecture - ( Value & Refrence Type ).exe
+C:\Users\mayan\Desktop\C_Sharph_Codes\Lecture - ( Value & Refrence Type )\Lecture - ( Value & Refrence Type )\bin\Debug\Lecture - ( Value & Refrence Type ).pdb
+C:\Users\mayan\Desktop\C_Sharph_Codes\Lecture - ( Value & Refrence Type )\Lecture - ( Value & Refrence Type )\obj\Debug\Lecture - ( Value & Refrence Type ).csproj.AssemblyReference.cache
+C:\Users\mayan\Desktop\C_Sharph_Codes\Lecture - ( Value & Refrence Type )\Lecture - ( Value & Refrence Type )\obj\Debug\Lecture - ( Value & Refrence Type ).csproj.CoreCompileInputs.cache
+C:\Users\mayan\Desktop\C_Sharph_Codes\Lecture - ( Value & Refrence Type )\Lecture - ( Value & Refrence Type )\obj\Debug\Lecture - ( Value & Refrence Type ).exe
+C:\Users\mayan\Desktop\C_Sharph_Codes\Lecture - ( Value & Refrence Type )\Lecture - ( Value & Refrence Type )\obj\Debug\Lecture - ( Value & Refrence Type ).pdb
