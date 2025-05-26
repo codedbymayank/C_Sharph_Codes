@@ -170,7 +170,7 @@ Lecture - ( Struct )
 -> Like classess structs can not inherit in another class or structs
 -> Structs can implement one or more than one interfaces
 -> Structs cane not be abstract , virtual or protected 
--> It does not have default constructor
+-> It does not have default constructor , parameterized can be there 
 -> It doesn't support inheritance
 -> classess are ref type but structs are value type
 
