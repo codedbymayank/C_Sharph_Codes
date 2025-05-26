@@ -19,6 +19,7 @@ namespace Lecture_____Classess___Objecrts__
     {
         static void Main(string[] args)
         {
+            // Here a object is an instance of class , during creation of object we are allocating a memory
             A obj = new A();
             obj.m1();
         }

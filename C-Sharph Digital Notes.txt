@@ -37,17 +37,20 @@ Types Of Constructor :-
 -> Its is useful when u wanna create a object based on previous object created 
 -> for copyconstructor , u need to pass an previously created object in which u are passing values 
 
-4. Private Constructor :- 
+4. Private Constructor :- ( For Singleton Patterns )
 -> It can be called inside that class only where its defined
 -> When u dont wanna to create a object from your class 
 -> U are creating a singleton where a single object of class is exist
 -> You wanna class to hold static methods , properties and etc and its should  not be initiated .
 
-5. Static Constructor :- 
+5. Static Constructor :- ( Specially for intialize static members )
 -> Its does not have any access modifier 
--> It automatically invoked before first reference to static member to a class .
+-> It automatically invoked before first instance is created or any static members are refrenced .
 -> It can't called directly 
-
+-> only one static constructor ios there in a class 
+-> It execute before the first instance of class is created
+-> Normally constructor belongs to object , but this one belongs to class.
+-> Doesn't matter , no of objects u are created for it , it will called only once
 
 Lecture - ( Inheritance & Its Types )
 
@@ -133,6 +136,8 @@ Lecture - ( Properties ) :-
 -> It's easy way to access data
 -> The block set & Get is known as accessor 
 -> Properties is same as like variables only the difference is we are using get and set accessors to not to access variables directly
+-> We can control access on get and set individually
+-> U can have custom condition during set or getting values 
 
 There are 4 types of properties :- 
 1. Read Only
@@ -218,6 +223,34 @@ Refrence Type :-
 -> can be null
 -> Derived from system.objects
 -> example :- class , string , delegate
+
+Lecture - ( Access Modifiers ) :- 
+-> public :- Accessible from anywhere 
+-> private :- Accessible within same class or struct
+-> protected :- access with in the class and its derived class
+-> internal :- access with in same namespace only 
+-> By default class is internal and field , methods etc are private 
+
+
+Lecture - ( Static Members ) :-
+-> Static members belongs to the type itself rather than a object of the class .
+-> Static Members include :-
+1. Static variables 
+2. Static properties
+3. Static methods
+4. Static constructor 
+5. Static class ( special case )
+
+
+
+
+
+
+
+
+
+
+
 
 
 
