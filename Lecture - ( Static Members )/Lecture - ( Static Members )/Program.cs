@@ -85,8 +85,8 @@ namespace Lecture_____Static_Members__
 
             //access static methods 
             B.m1("Omkara");
-           
 
+           
 
             Console.ReadLine();
 

@@ -95,6 +95,7 @@ Lecture :- ( Abstract Class )
 -> If there is a abstract method inside abstract class , then to give implementation of that body in child class we need to use override keyword
 -> It can't be static.
 -> If there is a normal method in abstract class , then it work normally like using virtual and override keyword
+-> If there is constructor inside abstract class , that will automatically called . Because inehrit is being done over there 
 
 In encapsulation we are hiding inner implementation of that class , but in abstraction we not doing that much instead of it we are trying to show only info which is imp to user .
 
@@ -241,7 +242,9 @@ Lecture - ( Static Members ) :-
 4. Static constructor 
 5. Static class ( special case )
 
-
+Lecture - ( Method Overriding ) :- 
+-> We can  use sealed keyword to prevent further ovveriding 
+-> If there is method in abstract classs and we wanna overrid that for that we use override keyword in second classs but before abstract class need to inherit in normal class
 
 
 

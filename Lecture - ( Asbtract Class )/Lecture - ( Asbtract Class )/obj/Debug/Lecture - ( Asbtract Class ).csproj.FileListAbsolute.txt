@@ -1,0 +1,7 @@
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Asbtract Class )\Lecture - ( Asbtract Class )\bin\Debug\Lecture - ( Asbtract Class ).exe.config
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Asbtract Class )\Lecture - ( Asbtract Class )\bin\Debug\Lecture - ( Asbtract Class ).exe
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Asbtract Class )\Lecture - ( Asbtract Class )\bin\Debug\Lecture - ( Asbtract Class ).pdb
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Asbtract Class )\Lecture - ( Asbtract Class )\obj\Debug\Lecture - ( Asbtract Class ).csproj.AssemblyReference.cache
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Asbtract Class )\Lecture - ( Asbtract Class )\obj\Debug\Lecture - ( Asbtract Class ).csproj.CoreCompileInputs.cache
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Asbtract Class )\Lecture - ( Asbtract Class )\obj\Debug\Lecture - ( Asbtract Class ).exe
+C:\Users\Mayank Pal\Desktop\C_Sharph_Codes\Lecture - ( Asbtract Class )\Lecture - ( Asbtract Class )\obj\Debug\Lecture - ( Asbtract Class ).pdb

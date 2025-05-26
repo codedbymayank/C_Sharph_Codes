@@ -12,7 +12,10 @@ namespace Lecture_____Asbtract_Class__
 
         public abstract int M1();
 
-       
+        public Abstractclass()
+        {
+            Console.WriteLine("Constructor inside abstract class");
+        }
 
         
     }
@@ -45,6 +48,10 @@ namespace Lecture_____Asbtract_Class__
             AbstractInherit inherit = new AbstractInherit();    
             inherit.p1 = 1;
             Console.WriteLine(inherit.p1);
+
+
+            Console.ReadLine();
+
         }
     }
 }
