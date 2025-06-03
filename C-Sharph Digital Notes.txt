@@ -245,6 +245,7 @@ Lecture - ( Static Members ) :-
 Lecture - ( Method Overriding ) :- 
 -> We can  use sealed keyword to prevent further ovveriding 
 -> If there is method in abstract classs and we wanna overrid that for that we use override keyword in second classs but before abstract class need to inherit in normal class
+-> For Method overriding we use virtual and override keyword
 
 
 
